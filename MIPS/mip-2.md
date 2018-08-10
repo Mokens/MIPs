@@ -17,6 +17,7 @@ To acheive this goal here are some of the activities and objectives of the Moken
 2. Find and create more usecases for mokens.
 3. Find people willing to join the Mokens community and help with the various activities and sub-projects.
 4. Find and help integrate mokens with projects, such as Ethereum-based games and systems.
+5. Start, support and encourage new projects that use mokens.
 5. Support, help, promote and market projects and people that are using mokens.
 6. Assist in the creation of new websites, software, user-interfaces and tools related to mokens.
 7. Create the documentation, blog posts, videos, pod casts and other media to accurately educate and inform the public about mokens and their uses to their benefit.
