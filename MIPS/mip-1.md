@@ -23,7 +23,7 @@ To create a MIP clone this project, make your MIP and then submit a pull request
 
 In some cases it may be a good idea to [submit an issue](https://github.com/Mokens/MIPs/issues/new) to this repository about your idea for a MIP to get feedback about it before you create the actual MIP.
 
-To submit an issue about a possible MIP make the starting of its title "Moken Request for Comment".
+When making an issue about a possible MIP make the starting of its title "Moken Request for Comment".
 
 
 
