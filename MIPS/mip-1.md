@@ -1,6 +1,6 @@
 ---
 mip: 1
-title: What is a MIP?
+title: MIPs
 status: Draft
 author: Nick Mudge <nick@mokens.io>
 discussion-to: https://github.com/Mokens/MIPs/issues/1
