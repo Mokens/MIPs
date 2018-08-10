@@ -3,6 +3,7 @@ mip: 1
 title: Goals & Purposes
 status: Draft
 author: Nick Mudge <nick@mokens.io>
+discussion-to: https://github.com/Mokens/MIPs/issues/1
 created: 2018-08-10
 ---
 
