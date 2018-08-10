@@ -1,9 +1,9 @@
 ---
 mip: 1
-title: MIPs
+title: Goals & Purposes
 status: Draft
 author: Nick Mudge <nick@mokens.io>
-discussion-to: https://github.com/Mokens/MIPs/issues/1
+discussions-to: https://github.com/Mokens/MIPs/issues/2
 created: 2018-08-10
 ---
 
@@ -21,7 +21,7 @@ MIPs are modeled on [Ethereum's EIPs](https://github.com/ethereum/EIPs).
 
 To create a MIP clone this project, make your MIP and then submit a pull request. 
 
-In some cases it may be a good idea to submit an issue to this repository about your idea for a MIP to get feedback about it before you create the actual MIP.
+In some cases it may be a good idea to [submit an issue](https://github.com/Mokens/MIPs/issues/new) to this repository about your idea for a MIP to get feedback about it before you create the actual MIP.
 
 To submit an issue about a possible MIP make the starting of its title "Moken Request for Comment".
 
