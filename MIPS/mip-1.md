@@ -10,7 +10,7 @@ created: 2018-08-10
 
 MIP stands for Moken Improvement Proposal. A MIP is a document providing information to the Mokens community and general public.
 
-A MIP can be a variety of things including the following:
+A MIP can be about variety of things including the following:
 1. A MIP can be informative, describing some part or aspect of the Mokens project.
 2. A MIP can describe a process for managing mokens or some part of the Mokens project.
 2. A MIP can describe the steps for doing something technical related to mokens. Tutorial.
