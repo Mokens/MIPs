@@ -1,6 +1,6 @@
 ---
 mip: 1
-title: Goals & Purposes
+title: About MIPs
 status: Draft
 author: Nick Mudge <nick@mokens.io>
 discussions-to: https://github.com/Mokens/MIPs/issues/1
