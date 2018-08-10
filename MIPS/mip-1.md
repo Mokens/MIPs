@@ -1,6 +1,6 @@
 ---
 mip: 1
-title: Goals & Purposes
+title: What is a MIP?
 status: Draft
 author: Nick Mudge <nick@mokens.io>
 discussion-to: https://github.com/Mokens/MIPs/issues/1
