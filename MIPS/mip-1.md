@@ -13,7 +13,7 @@ MIP stands for Moken Improvement Proposal. A MIP is a document providing informa
 A MIP can be a variety of things including the following:
 1. A MIP can be informative, describing some part or aspect of the Mokens project.
 2. A MIP can describe a process for managing mokens or some part of the Mokens project.
-2. A MIP an describe the steps for doing something technical related to mokens. Tutorial.
+2. A MIP can describe the steps for doing something technical related to mokens. Tutorial.
 3. A MIP can descibe software and technical details for integrating or using mokens.
 
 MIPs are modeled on [Ethereum's EIPs](https://github.com/ethereum/EIPs).
@@ -24,7 +24,7 @@ Technically mokens are [ERC721](https://github.com/ethereum/EIPs/blob/master/EIP
 
 The Mokens community consists of all the people involved in someway with mokens.
 
-The Mokens project is the Mokens community plus all the technology, documentation
+The Mokens project is the Mokens community plus all the software, websites, documentation and communication related to mokens.
 
 ## Goals
 
@@ -32,6 +32,13 @@ The goal of the Mokens project is to achieve wide-spread adoption and use of mok
 
 To acheive this goal here are some of the activities and objectives of the Mokens project:
 1. Implement technology, methods, plans and activities to make mokens desirable and useful as crytpocollectibles and non-fungible tokens.
+2. Find and create more usecases for mokens.
+3. Find people willing to join the Mokens community and help with the various activities and sub-projects.
+4. Find and help integrate mokens with other projects, such as Ethereum-based games and systems.
+5. Assist in the creation of new websites, software, user-interfaces and tools related to mokens.
+
+1. Foster a Mokens community that achieves the goal and assists people and companys helping the Mokens project.
+2. Work with the Mokens comm
 
 ## Mokens Project & MIP Purpose
 
