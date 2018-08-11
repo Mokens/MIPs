@@ -17,6 +17,10 @@ The Mokens community consists of all the people involved in some way with mokens
 
 The Mokens project is the Mokens community plus all the software, websites, documentation and other information related to mokens.
 
+First user interface: https://mokens.io/
+
+Join us in the [Mokens discord](https://discord.gg/ZyaqFhE).
+
 ## Goals
 
 The goal of the Mokens project is to achieve wide-spread adoption and use of mokens among Ethereum users and Ethereum projects.
