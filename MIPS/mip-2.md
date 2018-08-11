@@ -1,6 +1,6 @@
 ---
 mip: 2
-title: Goals & Objects
+title: Goal & Objectives
 status: Draft
 author: Nick Mudge <nick@mokens.io>
 discussions-to: https://github.com/Mokens/MIPs/issues/1
