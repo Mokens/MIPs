@@ -1,3 +1,12 @@
+---
+mip: 2
+title: Goals & Objects
+status: Draft
+author: Nick Mudge <nick@mokens.io>
+discussions-to: https://github.com/Mokens/MIPs/issues/1
+created: 2018-08-10
+---
+
 ## What Are Mokens?
 
 Technically mokens are [ERC721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) compliant and [ERC998](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md) compliant non-fungible tokens minted on the main Ethereum network from the [Mokens contract](https://etherscan.io/address/0xaaf401585b72c678afc09036510d3ef759bdaf7e).
@@ -14,7 +23,7 @@ The goal of the Mokens project is to achieve wide-spread adoption and use of mok
 
 To acheive this goal here are some of the activities and objectives of the Mokens project:
 1. Implement technology, methods, plans and activities to make mokens desirable and useful as cryptocollectibles and non-fungible tokens.
-2. Find and create more usecases for mokens.
+2. Find and create more use cases for mokens.
 3. Find people willing to join the Mokens community and help with the various activities and sub-projects.
 4. Find and help integrate mokens with projects, such as Ethereum-based games and systems.
 5. Start, support and encourage new projects that use mokens.
