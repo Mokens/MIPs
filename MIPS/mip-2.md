@@ -23,7 +23,7 @@ Join us in the [Mokens discord](https://discord.gg/ZyaqFhE).
 
 ## Goals
 
-The goal of the Mokens project is to achieve wide-spread adoption and use of mokens among Ethereum users and Ethereum projects.
+_The goal of the Mokens project is to achieve wide-spread adoption and use of mokens among Ethereum users and Ethereum projects._
 
 To acheive this goal here are some of the activities and objectives of the Mokens project:
 1. Implement technology, methods, plans and activities to make mokens desirable and useful as cryptocollectibles and non-fungible tokens.
