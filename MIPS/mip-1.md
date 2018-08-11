@@ -19,7 +19,7 @@ A MIP can be about a variety of things including the following:
 
 MIPs are modeled on [Ethereum's EIPs](https://github.com/ethereum/EIPs).
 
-To create a MIP clone this project, make your MIP and then submit a pull request. 
+To create a MIP clone this project, make your MIP and then submit a pull request. Each MIP should have a header similar in format to this one.
 
 In some cases it may be a good idea to [submit an issue](https://github.com/Mokens/MIPs/issues/new) to this repository about your idea for a MIP to get feedback about it before you create the actual MIP.
 
