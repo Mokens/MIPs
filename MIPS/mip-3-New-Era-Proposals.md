@@ -23,7 +23,7 @@ Anybody can submit a New Era Proposal at any time by [creating an issue](https:/
 A New Era Proposal should consist of the following:
 1. The name of the author.
 2. The date the proposed era would start.
-3. The name of the era. The era name is a word or phrase that brands the mokens of the era. The era name must be 32 ASCII characters or shorter. Examples of eras could be the Genesis era for the first era, the Roman era, the Gold era, the Silver era, the Olympic era. It could be any kind of branding.
+3. The name of the era. The era name must be 32 ASCII characters or shorter. 
 4. The starting mint price.
 5. The mint increase amount.
 6. The rationale for the era. 
