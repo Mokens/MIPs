@@ -25,5 +25,6 @@ In some cases it may be a good idea to [submit an issue](https://github.com/Moke
 
 When making an issue about a possible MIP make the starting of its title "Moken Request for Comment".
 
+A MIP with the status of "Draft" is still being developed and is not in force yet.  A MIP with the status of "Active" is in force.
 
-
+It is possible to update an "Active" MIP.
