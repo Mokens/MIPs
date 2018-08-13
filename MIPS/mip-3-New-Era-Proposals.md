@@ -15,7 +15,7 @@ Anybody can submit a New Era Proposal at any time by creating an issue with a ti
 A New Era Proposal should consist of the following:
 1. The name of the author.
 2. The date the proposed era would start.
-3. The name of the era. The era name is a word or phrase that brands the tokens of the era. The era name must be 32 ASCII characters or shorter.
+3. The name of the era. The era name is a word or phrase that brands the mokens of the era. The era name must be 32 ASCII characters or shorter.
 4. The starting mint price.
 5. The mint increase amount.
 6. The rationale for the era. 
