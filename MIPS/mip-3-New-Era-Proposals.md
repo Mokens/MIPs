@@ -43,6 +43,6 @@ The selected eras and the option for no new era are put into an Ethereum contrac
 
 The winning era will start on the 1st of the coming month, or there will be no change if the no new era options won the vote.
 
-The same process occurs every month.
+The same process occurs each month.
 
 
