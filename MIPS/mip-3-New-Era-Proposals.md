@@ -29,6 +29,6 @@ Here are some important points to consider when writing a New Era Proposal:
 4. Will the proposed era satisfy existing moken holders (molders)?
 5. Does the proposed era support or assit projects that use mokens?
 6. Is the proposed era exciting and interesting and useful for something?
-7. Does the proposed era balance moken scarcity: increase moken supply if they are too scarce or reduce moken supply when there are too many.
+7. Does the proposed era balance moken scarcity: increase moken supply if they are too scarce or restrict moken creation if there are too many available at low prices on exchanges?
 
 
