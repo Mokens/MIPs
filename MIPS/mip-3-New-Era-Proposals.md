@@ -10,7 +10,7 @@ created: 2018-08-11
 
 ## Creating New Era Proposals
 
-Anybody can submit a New Era Proposal at any time by creating an issue with a title that starts with "New Era Proposal".
+Anybody can submit a New Era Proposal at any time by [creating an issue](https://github.com/Mokens/MIPs/issues/new) with a title that starts with "New Era Proposal".
 
 A New Era Proposal should consist of the following:
 1. The name of the author.
