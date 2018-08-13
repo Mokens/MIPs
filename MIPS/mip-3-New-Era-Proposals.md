@@ -27,7 +27,7 @@ Here are examples of things to consider when writing a New Era Proposal:
 2. Will the proposed era cause more people to adopt mokens?
 3. Does the proposed era distinguish itself from past eras?
 4. Will the proposed era satisfy existing moken holders (molders)?
-5. Does the proposed era support or assit projects that use mokens?
+5. Does the proposed era support or assist projects that use mokens?
 6. Is the proposed era exciting and interesting and useful for something?
 7. Does the proposed era balance moken scarcity: increase moken supply if they are too scarce or restrict moken creation if there are too many available at low prices on exchanges?
 
