@@ -8,6 +8,14 @@ created: 2018-08-11
 ---
 > **Note:** While this MIP is in "draft" status it is not in force. New moken eras are not currently being created. When the draft status of this MIP is "active" then this document is active and new eras are started based on it.
 
+## What is an Era?
+
+An era is a name/label/branding for newly minted mokens for a period of time. The Moken community decides to start a new era or not each month. For example the Moken community could decide to have a Roman era for a month. During that time all mokens that are minted are mokens of the roman era. There could be a Silver era or Gold era or Olympics era or any label or branding. The era is stored with each moken in the Mokens contract and can be queried. 
+
+Eras also determine the starting mint price and the mint increase amount.
+
+What an era is, and when it starts, and the mint price and mint increase amount are determined by the moken community. This MIP documents the process for starting new eras.
+
 ## Creating New Era Proposals
 
 Anybody can submit a New Era Proposal at any time by [creating an issue](https://github.com/Mokens/MIPs/issues/new) with a title that starts with "New Era Proposal".
