@@ -22,7 +22,7 @@ A New Era Proposal should consist of the following:
 
 New eras should help the Mokens project in some way and the rational of a proposed era should explain how it helps the Mokens project.   
 
-Here are some important points to consider when writing a New Era Proposal:
+Here are examples of things to consider when writing a New Era Proposal:
 1. Does the proposed era help get mokens accepted and integrated with other Ethereum projects?
 2. Will the proposed era cause more people to adopt mokens?
 3. Does the proposed era distinguish itself from past eras?
