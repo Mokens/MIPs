@@ -8,7 +8,7 @@ created: 2018-08-11
 ---
 > **Note:** While this MIP is in "draft" status it is not in force. New moken eras are not currently being created. When the draft status of this MIP is "active" then this document is active and new eras are started based on it.
 
-## New Era Proposals
+## Creating New Era Proposals
 
 Anybody can submit a New Era Proposal at any time by creating an issue with a title that starts with "New Era Proposal".
 
