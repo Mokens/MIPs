@@ -38,10 +38,15 @@ function mint(
   returns (uint256 mokenId)
 ```
 
-The `mint` function is a simple function that can be called by any dapp or Ethereum contract. It calculates the current mint price and stores ether that is sent in the contract. It reverts if the ether that is sent is less than the mint price. If the ether that is sent is greater than the mint price then the extra ether is refunded.
+The `mint` function is a simple function that can be called by any dapp or user interface or Ethereum contract. It calculates the current mint price and stores ether that is sent in the contract. It reverts if the ether that is sent is less than the mint price. If the ether that is sent is greater than the mint price then the extra ether is refunded.
 
-The mokens.io user interface mints new mokens by calling this `mint` function.
+The [mokens.io user interface](https://mokens.io) mints new mokens by calling the `mint` function directly.
 
 The advantage of the `mint` function is that it is easier and simpler to use.
+
+### The `contractMint` Function
+```solidity
+
+```
 
 
