@@ -12,7 +12,7 @@ There are different ways to integrate mokens into projects. This document covers
 The [mokens.io website](https://mokens.io) is just one user interface for minting and displaying mokens. There can be any number of user interfaces for minting 
 and/or displaying and using mokens. 
 
-The minting, display and use of mokens is decentralized because anyone can create appliations or implement functionality to do these things.
+The minting, display and use of mokens is decentralized because anyone can create applications or implement functionality to do these things.
 With knowledge and creative imagination the number of use cases of mokens is infinite.
 
 ## Mint Mokens in Your Project
