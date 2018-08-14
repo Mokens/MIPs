@@ -44,9 +44,23 @@ The [mokens.io user interface](https://mokens.io) mints new mokens by calling th
 
 The advantage of the `mint` function is that it is easier and simpler to use.
 
-### The `contractMint` Function
+#### The `contractMint` Function
 ```solidity
-
+/// @param _tokenOwner The Ethereum address that will own the newly minted moken.
+/// @param _mokenName The unique name of the newly minted moken.
+/// @param _linkHash A hash that can be used to link off-chain data with the newly minted moken.
+/// @param _currencyName The name of the ERC20 token that is used to pay the mint price, or 'Ether'.
+/// @param _pricePaid The mint price that was paid to mint the new moken.
+/// @return mokenId The sequential moken number of the newly minted moken.
+function contractMint(
+  address _tokenOwner, 
+  string _mokenName, 
+  bytes32 _linkHash, 
+  bytes32 _currencyName, 
+  uint256 _pricePaid
+) 
+  external 
+  returns (uint256 mokenId)
 ```
 
 
