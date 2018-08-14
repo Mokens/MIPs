@@ -42,6 +42,6 @@ The `mint` function is a simple function that can be called by any dapp or Ether
 
 The mokens.io user interface mints new mokens by calling this `mint` function.
 
-The advantage of the `mint` function is that it is very easy and simple to use.
+The advantage of the `mint` function is that it is easier and simpler to use.
 
 
