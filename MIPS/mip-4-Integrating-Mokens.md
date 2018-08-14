@@ -63,4 +63,9 @@ function contractMint(
   returns (uint256 mokenId)
 ```
 
+The `contractMint` function enables projects to mint new mokens and take a portion of the mint fee. 
+
+For example Project Moon could integrate the minting of mokens in their project. Their project calls `contractMint` to mint new mokens and they collect 30 percent of the mint fee. The portion of the mint fee taken by a project is determined on a case by case basis.
+
+
 
