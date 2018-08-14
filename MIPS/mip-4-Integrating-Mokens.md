@@ -20,6 +20,8 @@ With knowledge and creative imagination the number of use cases of mokens is inf
 The [Mokens contract](https://etherscan.io/address/0xaaf401585b72c678afc09036510d3ef759bdaf7e#code) has two mint functions, `mint` and `contractMint`, 
 that take care of minting new mokens.
 
+Any new or existing project can choose which mint function to use.
+
 #### The `mint` Function
 ```solidity
 /// @param _tokenOwner The Ethereum address that will own the newly minted moken.
@@ -35,5 +37,11 @@ function mint(
   payable 
   returns (uint256 mokenId)
 ```
+
+The `mint` function is a simple function that can be called by any dapp or Ethereum contract. It calculates the current mint price and stores ether that is sent in the contract. It reverts if the ether that is sent is less than the mint price. If the ether that is sent is greater than the mint price then the extra ether is refunded.
+
+The mokens.io user interface mints new mokens by calling this `mint` function.
+
+The advantage of the `mint` function is that it is very easy and simple to use.
 
 
