@@ -1,4 +1,5 @@
 ---
+Mokens Improvement Proposal (MIP)
 mip: 4
 title: Integrating Mokens
 status: Draft
