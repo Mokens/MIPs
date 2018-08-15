@@ -102,7 +102,7 @@ Projects can request that additional metadata be received and stored with mokens
 
 ## Displaying Mokens in Your Project
 
-Projects can integrate mokens in their project by displaying mokens. The metadata for displaying mokens can be found using the https://api.mokens.io API.
+Projects can integrate mokens in their project by displaying mokens. The metadata for displaying mokens can be found using the https://api.mokens.io API. The `tokenURI(uint256 _tokenId)` function uses the https://api.mokens.io API. It returns the appropriate URL for the supplied tokenId.
 
 ## Integrating with Mokens at the Contract Level
 
