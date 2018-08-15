@@ -114,7 +114,7 @@ Your project can query the Mokens contract to get and use data about specific mo
 
 #### Attach Properties to Mokens
 
-In your contracts you can attach properties, or data to specific mokens giving those mokens characteristics, traits, functionality, and advantages of your own design. You can use these properties in your game play or for the functionality of your system. These added properties or your design can be added to the metadata of mokens and displayed and used in other places accross the Internet. If you choose the functionality that you add to mokens with contracts can be used by other systems and applications.
+In your contracts you can attach properties, or data to specific mokens giving those mokens characteristics, traits, functionality, and advantages of your own design. You can use these properties in your game play or for the functionality of your system. These added properties can be added to the metadata of mokens and displayed and used in other places accross the Internet. If you choose the functionality that you add to mokens with contracts can be used by other systems and applications.
 
 Mokens is a platform of one NFT contract instance upon which functionality can be built and shared and reused.
 
