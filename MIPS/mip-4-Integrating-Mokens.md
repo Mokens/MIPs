@@ -69,5 +69,7 @@ For example Project Moon could integrate the minting of mokens in their project.
 
 Only contracts in an approved list that is stored in the Mokens contract can call the `contractMint` function. A project that wants to mint mokens should contact Nick Mudge <nick@mokens.io> to get their minting contract added to the approved list.
 
+The `contractMint` function enables the minting fee to be paid in Ether or in ERC20 tokens.
 
+A contract that calls `contractMint` needs to collect the correct mint fee, refund any overpayment, keep a portion of the fee for itself and send the rest to a designated address.
 
