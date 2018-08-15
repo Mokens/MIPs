@@ -128,4 +128,8 @@ Useful references:
 
 The Mokens contract fully implements the [ERC998ERC721TopDown](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md#erc721-top-down-composable), [ERC998ERC20TopDown](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md#erc20-top-down-composable), [ERC998ERC721BottomUp](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md#erc721-bottom-up-composable) functionality.
 
-Use the composable functionality of mokens for your project. Here is an example: Let's say that you have an Ethereum game about adventure. In your game you have an avatar which is an NFT. You allow users to mint a moken to represent a pet for your avatar. You automatically generate an image for the pet and then let the user choose a name for the pet. When the user clicks on a button to mint the moken your contract mints the moken and transfers (bottom-up style) ownership of the moken pet to the user's avatar so that the pet stays with the avatar. The pet can give the avatar some kind of advatage like increased strength or health or speed so users have a game play reason to mint a moken pet.
+Use the composable functionality of mokens for your project. 
+
+**Here is an example:**
+
+Let's say that you have an Ethereum game about adventure. In your game you have an avatar which is an NFT. You allow users to mint a moken to represent a pet for your avatar. You automatically generate an image for the pet and then let the user choose a name for the pet. When the user clicks on a button to mint the moken your contract mints the moken and transfers (bottom-up style) ownership of the moken pet to the user's avatar so that the pet stays with the avatar. The pet can give the avatar some kind of advatage like increased strength or health or speed so users have a game play reason to mint a moken pet.
