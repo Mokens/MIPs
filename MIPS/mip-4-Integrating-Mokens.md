@@ -106,7 +106,24 @@ Projects can integrate mokens in their project by displaying mokens. The metadat
 
 ## Integrating with Mokens at the Contract Level
 
-Your project can integrate mokens with your contracts to create various funtionality for users. The Mokens contract is not upgradeable and will not change.
+Your project can integrate mokens with your contracts to create various funtionality for users. 
 
-#### 
+#### Querying Mokens
 
+Your project can query the Mokens contract to get and use data about specific mokens for your features and functionality. You can query and get the moken id, the moken era and moken name. You can query how many mokens a user has. You can query for who owns a moken. You can iterate through all the mokens or all the mokens owned by a specific user. You can query and get a mokens linkHash. You can query and get all the child NFTs that are owned by a moken. You can query and get all the ERC20 balances owned by a moken. You can query and get the NFT that owns a moken.
+
+#### Attach Properties to Mokens
+
+In your contracts you can attach properties, or data to specific mokens giving those mokens characteristics, traits, functionality, and advantages of your own design. You can use these properties in your game play or for the functionality of your system. These added properties or your design can be added to the metadata of mokens and displayed and used in other places accross the Internet. If you choose the functionality that you add to mokens with contracts can be used by other systems and applications.
+
+Mokens is a platform of one NFT contract instance upon which functionality can be built and shared and reused.
+
+#### Use the Composable Capability of Mokens
+
+Useful references:
+[Top-Down and Bottom-Up Composables, What’s the Difference and Which One Should You Use?](https://hackernoon.com/top-down-and-bottom-up-composables-whats-the-difference-and-which-one-should-you-use-db939f6acf1d)
+[ERC998 Standard](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md)
+
+The Mokens contract fully implements the [ERC998ERC721TopDown](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md#erc721-top-down-composable), [ERC998ERC20TopDown](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md#erc20-top-down-composable), [ERC998ERC721BottomUp](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md#erc721-bottom-up-composable) functionality.
+
+Use the composable functionality of mokens for your project. Here is an example: Let's say that you have an Ethereum game about adventure. In your game you have an avatar which is an NFT. You allow users to mint a moken to represent a pet for your avatar. You automatically generate an image for the pet and then let the user choose a name for the pet. When the user clicks on a button to mint the moken your contract mints the moken and transfers (bottom-up style) ownership of the moken pet to the user's avatar so that the pet stays with the avatar. The pet can give the avatar some kind of advatage like increased strength or health or speed so users have a game play reason to mint a moken pet.
