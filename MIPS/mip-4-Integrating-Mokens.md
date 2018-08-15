@@ -75,7 +75,7 @@ A contract that calls `contractMint` needs to collect the correct mint fee, refu
 
 #### Moken Metadata
 
-Just before a project mints a moken it should send an HTTP POST request to https://api.mokens.io with the metadata of the moken. The metadata can include a URI to an image, a description, tags, a linkHash and more. When the moken is minted the metadata will be associated with the moken and can be accessed through the http://api.mokens.io API. For example the metadata for Moken 28 is found at this URL https://api.mokens.io/moken/28.json
+Just before a project mints a moken it should send an HTTP POST request to https://api.mokens.io with the metadata of the moken. The metadata can include a URI to an image, a description, tags and more. When the moken is minted the metadata will be associated with the moken and can be accessed through the http://api.mokens.io API. For example the metadata for Moken 28 is found at this URL https://api.mokens.io/moken/28.json
 
 When a moken is minted the moken name, the linkHash and the moken owner address are used to find the metadata to be associated with it.
 
