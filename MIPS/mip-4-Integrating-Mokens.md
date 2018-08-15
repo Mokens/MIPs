@@ -121,7 +121,9 @@ Mokens is a platform of one NFT contract instance upon which functionality can b
 #### Use the Composable Capability of Mokens
 
 Useful references:
+
 [Top-Down and Bottom-Up Composables, What’s the Difference and Which One Should You Use?](https://hackernoon.com/top-down-and-bottom-up-composables-whats-the-difference-and-which-one-should-you-use-db939f6acf1d)
+
 [ERC998 Standard](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md)
 
 The Mokens contract fully implements the [ERC998ERC721TopDown](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md#erc721-top-down-composable), [ERC998ERC20TopDown](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md#erc20-top-down-composable), [ERC998ERC721BottomUp](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md#erc721-bottom-up-composable) functionality.
