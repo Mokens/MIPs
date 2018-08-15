@@ -71,5 +71,29 @@ Only contracts in an approved list that is stored in the Mokens contract can cal
 
 The `contractMint` function enables the minting fee to be paid in Ether or in ERC20 tokens.
 
-A contract that calls `contractMint` needs to collect the correct mint fee, refund any overpayment, keep a portion of the fee for itself and send the rest to a designated address.
+A contract that calls `contractMint` needs to collect the correct mint fee, refund any overpayment, keep a portion of the fee  and send the rest to a designated address.
+
+#### Moken Metadata
+
+Just before a project mints a moken it should send an HTTP POST request to https://api.mokens.io with the metadata of the moken. The metadata can include a URI to an image, a description, tags, a linkHash and more. When the moken is minted the metadata will be associated with the moken and can be accessed through the http://api.mokens.io API. For example the metadata for Moken 28 is found at this URL https://api.mokens.io/moken/28.json
+
+When a moken is minted the moken name, the linkHash and the moken owner address are used to find the metadata to be associated with it.
+
+Here is an example of metadata that is currently being used with mokens. This is Moken 28:
+```javascript
+{
+   "name":"Sweety",
+   "image":"https://res.cloudinary.com/mokens/image/upload/v1533932717/ua0hgqwbzpjfjoemz44s.jpg",
+   "description":"Street dog from Bali that found me and became my buddy. I gave her the name \"Sweety\" - Buying Bali Dog collectibles will lead to a donation to street dogs in Bali.",
+   "external_url":"https://mokens.io/moken/28",
+   "tags":[
+      "dogs",
+      "animals",
+      "bali",
+      "charity"
+   ],
+   "original":null
+}
+```
+
 
