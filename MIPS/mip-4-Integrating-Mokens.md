@@ -134,7 +134,7 @@ Use the composable functionality of mokens for your project.
 
 Let's say that you have an Ethereum adventure game. 
 1. In your game you have an avatar which is an NFT. 
-2. You allow users to mint a moken to represent a pet for your avatar. 
+2. You decide to use mokens as pets for avatars in the game.
 3. You let the user select what kind of pet to mint and automatically generate an image of the pet.
 4. You let the user choose a name for the pet.
 5. When the user clicks a button to mint the pet moken your contract mints the moken and transfers (bottom-up style) ownership of the moken pet to the user's avatar so that the pet stays with the avatar. 
