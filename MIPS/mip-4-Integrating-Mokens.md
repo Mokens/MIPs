@@ -132,7 +132,7 @@ Use the composable functionality of mokens for your project.
 
 **Here is an example:**
 
-Let's say that you have an Ethereum game about adventure. 
+Let's say that you have an Ethereum adventure game. 
 1. In your game you have an avatar which is an NFT. 
 2. You allow users to mint a moken to represent a pet for your avatar. 
 3. You let the user select what kind of pet to mint and automatically generate an image of the pet.
