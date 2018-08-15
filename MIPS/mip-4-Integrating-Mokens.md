@@ -65,7 +65,9 @@ function contractMint(
 
 The `contractMint` function enables projects to mint new mokens and take a portion of the mint fee. 
 
-For example Project Moon could integrate the minting of mokens in their project. Their project calls `contractMint` to mint new mokens and they collect 30 percent of the mint fee. The portion of the mint fee taken by a project is determined on a case by case basis.
+For example Project Moon could integrate the minting of mokens in their project. Their project calls `contractMint` to mint new mokens and they collect 30 percent of the mint fee. The percentage of the mint fee taken by a project is determined on a case by case basis.
+
+Only contracts in an approved list that is stored in the Mokens contract can call the `contractMint` function. A project that wants to mint mokens should contact Nick Mudge <nick@mokens.io> to get their minting contract added to the approved list.
 
 
 
