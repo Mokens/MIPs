@@ -42,8 +42,6 @@ The `mint` function is a simple function that can be called by any dapp or user 
 
 The [mokens.io user interface](https://mokens.io) mints new mokens by calling the `mint` function directly.
 
-The advantage of the `mint` function is that it is easier and simpler to use.
-
 #### The `contractMint` Function
 ```solidity
 /// @param _tokenOwner The Ethereum address that will own the newly minted moken.
