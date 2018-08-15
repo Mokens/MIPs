@@ -14,7 +14,7 @@ An era is a name/label/branding for newly minted mokens for a period of time. Th
 
 Eras also determine the price to mint new mokens and the mint increase amount.
 
-What an era is, when it starts, the starting mint price, and it's increasing mint price are all determined by the moken community.
+The era name, when it starts, the starting mint price, and it's increasing mint price are all determined by the moken community.
 
 ## Creating New Era Proposals
 
