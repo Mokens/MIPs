@@ -29,18 +29,27 @@ The Mokens project shares this goal with all projects that want to acheive it. W
 
 All NFTs and dapps benefit from acheiving this goal. 
 
-The Mokens project intends to help achieve this goal by being a bridge between non-crypto websites with millions of users and dapps on the Ethereum blockchain.
+The Mokens project intends to help achieve this goal by being a bridge between non-crypto websites/software and crypto applications/dapps on the Ethereum blockchain.
 
-The Mokens project will provide a complete turn-key cryptocollectible solution (mokens) that is easily integrated with formly non-crypto websites that have millions of users.
+The Mokens project will provide a complete turn-key cryptocollectibles solution (mokens) that is easily integrated with formly non-crypto websites that have millions of users.
 
-The Mokens project plans to integrate mokens with existing and new crypto projects that utilize mokens in valuable way.
+The Mokens project plans to integrate mokens with existing and new crypto projects that utilize mokens in useful or valuable ways.
 
-To acheive this goal here are some of the activities and objectives of the Mokens project:
+Here are motivations:
+1. Non-crypto websites want to integrate mokens into their website because the technical Ethereum work to create, manage and support cryptocollectibes is done by the Mokens project. In other words integrating mokens is relatively low risk, low cost and low effort. In addition mokens has or will have many uses in existing and new Ethereum dapps. The Mokens project offers non-crypto websites a way to introduce their users to the future, dapps on the blockchain.
+2. Ethereum-based projects are interested in integrating mokens in useful ways in order to access and provide service to the flow of new people minting or acquiring or using mokens.
+
+Be one of the first projects to integrate mokens. Talk to us on the [Mokens discord](https://discord.gg/ZyaqFhE).
+
+Here are general plans and activities of the Mokens project:
 1. Implement technology, methods, plans and activities to make mokens desirable and useful as cryptocollectibles and non-fungible tokens.
 2. Find and create more use cases for mokens.
 3. Find people willing to join the Mokens community and help with the various activities and sub-projects.
-4. Find and help integrate mokens with projects, such as Ethereum-based games and systems.
+4. Find and help integrate mokens with new and existing crypto projects, such as Ethereum-based games and systems.
+5. Find non-crypto websites and software and companies that are interested in introducing their users to cryptocollectibles and help them integrate mokens.
 5. Start, support and encourage new projects that use mokens.
 5. Support, help, promote and market projects and people that are using mokens.
 6. Create and assist in the creation of new websites, software, user-interfaces and tools related to mokens.
 7. Create the documentation, blog posts, videos, pod casts and other media to accurately educate and inform the public about mokens and their uses to their benefit.
+
+Check out our technical guide for integrating mokens for Ethereum projects: [Integrating Mokens](https://github.com/Mokens/MIPs/blob/master/MIPS/mip-4-Integrating-Mokens.md)
