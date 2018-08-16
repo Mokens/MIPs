@@ -110,7 +110,7 @@ Your project can integrate mokens with your contracts to create various funtiona
 
 #### Querying Mokens
 
-Your project can query the Mokens contract to get and use data about specific mokens for your features and functionality. You can query and get the moken id, the moken era and moken name. You can query how many mokens a user has. You can query for who owns a moken. You can iterate through all the mokens or all the mokens owned by a specific user. You can query and get a mokens linkHash. You can query and get all the child NFTs that are owned by a moken. You can query and get all the ERC20 balances owned by a moken. You can query and get the NFT that owns a moken. And more.
+Your project can query the Mokens contract to get and use data about specific mokens for your features and functionality. For each moken you can query and get the moken id, the moken era and moken name. You can query how many mokens a user has. You can query for who owns a moken. You can iterate through all the mokens or all the mokens owned by a specific user. You can query and get all the child NFTs that are owned by a moken. You can query and get all the ERC20 balances owned by a moken. You can query and get the NFT that owns a moken. And more.
 
 #### Attach Properties to Mokens
 
