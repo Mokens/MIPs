@@ -31,7 +31,7 @@ All NFTs and dapps benefit from achieving this goal.
 
 The Mokens project intends to help achieve this goal by being a bridge between non-crypto websites/software and crypto applications/dapps on the Ethereum blockchain.
 
-The Mokens project provides a customizable cryptocollectibles solution (mokens) that is easily integrated with formly non-crypto websites that have millions of users. Websites that don't have millions of users can also integrate mokens.
+The Mokens project provides a customizable cryptocollectibles solution (mokens) that is easily integrated with formlly non-crypto websites that have millions of users. Websites that don't have millions of users can also integrate mokens.
 
 The Mokens project plans to integrate mokens with existing and new crypto projects that utilize mokens in useful or valuable ways.
 
