@@ -25,9 +25,9 @@ Join us in the [Mokens discord](https://discord.gg/ZyaqFhE).
 
 _The goal of the Mokens project is mass adoption by the general public of NFTs and dapps on the Ethereum blockchain._
 
-The Mokens project shares this goal with all projects that want to acheive it. We invite all people and projects to work with us to acheive this common goal. If this is your goal or something you want then we want to work with you.
+The Mokens project shares this goal with all projects that want to achieve it. We invite all people and projects to work with us to achieve this common goal. If this is your goal or something you want then we want to work with you.
 
-All NFTs and dapps benefit from acheiving this goal. 
+All NFTs and dapps benefit from achieving this goal. 
 
 The Mokens project intends to help achieve this goal by being a bridge between non-crypto websites/software and crypto applications/dapps on the Ethereum blockchain.
 
