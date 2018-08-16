@@ -52,4 +52,4 @@ Here are general plans and activities of the Mokens project:
 6. Create and assist in the creation of new websites, software, user-interfaces and tools related to mokens.
 7. Create the documentation, blog posts, videos, pod casts and other media to accurately educate and inform the public about mokens and their uses to their benefit.
 
-Check out our technical guide for integrating mokens for Ethereum projects: [Integrating Mokens](https://github.com/Mokens/MIPs/blob/master/MIPS/mip-4-Integrating-Mokens.md)
+Check out our technical guide for integrating mokens with Ethereum projects: [Integrating Mokens](https://github.com/Mokens/MIPs/blob/master/MIPS/mip-4-Integrating-Mokens.md)
