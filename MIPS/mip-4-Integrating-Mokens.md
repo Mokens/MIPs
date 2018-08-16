@@ -11,6 +11,8 @@ There are different ways to integrate mokens into projects. This document covers
 
 The Mokens project uses an instance of the Mokens contract to mint non-fungible tokens that comply with the [ERC721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) and [ERC998](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md) standards. The Mokens project uses a single instance of the Mokens contract that is at this address: [0xaaf401585b72c678afc09036510d3ef759bdaf7e](https://etherscan.io/address/0xaaf401585b72c678afc09036510d3ef759bdaf7e#code). Integration is done with that contract instance at that address. The Moken contract is not upgradeable and will not change.
 
+One thing to note is that all the mokens functionality is too much to fit in one contract. So the Mokens contract delegates some function calls to the MokensDelegate contract. So if you can't find a function in the Mokens contract source code then check the [MokensDelegate contract source code](https://etherscan.io/address/0x8e332fe4df2876cce3b9e6cab160c61ef4c31f77#code).
+
 The [mokens.io website](https://mokens.io) is just one user interface for minting and displaying mokens. There can be any number of user interfaces for minting 
 and/or displaying and using mokens. 
 
