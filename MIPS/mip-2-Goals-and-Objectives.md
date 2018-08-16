@@ -11,7 +11,7 @@ created: 2018-08-10
 
 Technically mokens are [ERC721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) compliant and [ERC998](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md) compliant non-fungible tokens minted on the main Ethereum network from the [Mokens contract](https://etherscan.io/address/0xaaf401585b72c678afc09036510d3ef759bdaf7e).
 
-Mokens are general purpose non-fungible tokens that are designed for projects to use.
+Mokens are general purpose non-fungible tokens and cryptocollectibles that are designed for projects to use.
 
 The Mokens community consists of all the people involved in some way with mokens.
 
