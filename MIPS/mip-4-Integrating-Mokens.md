@@ -9,7 +9,7 @@ created: 2018-08-11
 
 There are different ways to integrate mokens into projects. This document covers some of the ways it can be done.
 
-The Mokens project uses an instance of the Mokens contract to mint non-fungible tokens that comply with the [ERC721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) and [ERC998](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md) standards. The Mokens project uses a single instance of the Mokens contract that is at this address: [0xaaf401585b72c678afc09036510d3ef759bdaf7e](https://etherscan.io/address/0xaaf401585b72c678afc09036510d3ef759bdaf7e#code). Integration is done with that contract instance at that address. The Moken contract is not upgradable and will not change.
+The Mokens project uses an instance of the Mokens contract to mint non-fungible tokens that comply with the [ERC721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) and [ERC998](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md) standards. The Mokens project uses a single instance of the Mokens contract that is at this address: [0xaaf401585b72c678afc09036510d3ef759bdaf7e](https://etherscan.io/address/0xaaf401585b72c678afc09036510d3ef759bdaf7e#code). Integration is done with that contract instance at that address. The Moken contract is not upgradeable and will not change.
 
 The [mokens.io website](https://mokens.io) is just one user interface for minting and displaying mokens. There can be any number of user interfaces for minting 
 and/or displaying and using mokens. 
@@ -106,7 +106,7 @@ Projects can integrate mokens in their project by displaying mokens. The metadat
 
 ## Integrating with Mokens at the Contract Level
 
-Your project can integrate mokens with your contracts to create various funtionality for users. 
+Your project can integrate mokens with your contracts to create various functionality for users. 
 
 #### Querying Mokens
 
