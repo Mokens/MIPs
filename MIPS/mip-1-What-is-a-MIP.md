@@ -33,4 +33,4 @@ It is possible to update an "Active" MIP.
 
 Join the discussion on the [Mokens Discord](https://discord.gg/ZyaqFhE).
 
-To get updates about mokens and new eras [join the mokens email list](https://mokens.gr8.com/).
+To get updates about mokens [join the mokens email list](https://mokens.gr8.com/).
