@@ -64,4 +64,9 @@ The winning era will start on the 1st of the coming month, or there will be no c
 
 The same process repeats each month.
 
+## Contact
+
+Join the discussion on the [Mokens Discord](https://discord.gg/ZyaqFhE).
+
+To get updates about mokens and new eras [join the mokens email list](https://mokens.gr8.com/).
 
