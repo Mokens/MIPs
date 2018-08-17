@@ -56,6 +56,8 @@ Up to 3 of the most popular New Era Proposals are selected for voting. Similar N
 
 Voting for a new era or keeping the current one is done on the 15th of every month.
 
+Except if no New Era Proposals have been submitted then there is no vote and the current era continues for another month.
+
 The selected eras and the option for no new era are put into an Ethereum contract. A simple web user interface is used to interact with the voting contract. Moken holders (molders) vote on the era they want. The weight of each molder's vote depends on how many mokens he/she owns, however in the future this may be limited to prevent any one user from having too much influence.
 
 The winning era will start on the 1st of the coming month, or there will be no change if the no new era option won the vote.
