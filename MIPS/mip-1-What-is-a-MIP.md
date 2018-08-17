@@ -28,3 +28,9 @@ When making an issue about a possible MIP make the starting of its title "Moken 
 A MIP with the status of "Draft" is still being developed and is not in force yet.  A MIP with the status of "Active" is in force.
 
 It is possible to update an "Active" MIP.
+
+## Contact
+
+Join the discussion on the [Mokens Discord](https://discord.gg/ZyaqFhE).
+
+To get updates about mokens and new eras [join the mokens email list](https://mokens.gr8.com/).
