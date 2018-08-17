@@ -26,7 +26,14 @@ A New Era Proposal should consist of the following:
 3. The name of the era. The era name must be 32 ASCII characters or shorter. 
 4. The starting mint price.
 5. The mint increase amount.
-6. The rationale for the era. 
+6. The status of the proposal, either "draft" or "active".   
+7. The rationale for the era. 
+
+### Status
+
+The status is "draft" until the author feels the proposal is complete and final. The author changes the status to "active" when he/she feels it is ready.
+
+### Rational
 
 New eras should help the Mokens project in some way and the rational of a proposed era should explain how it helps the Mokens project.   
 
