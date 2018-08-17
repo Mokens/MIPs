@@ -22,11 +22,11 @@ Anybody can submit a New Era Proposal at any time by [creating an issue](https:/
 
 A New Era Proposal should consist of the following:
 1. The name of the author.
-2. The date the proposed era would start.
-3. The name of the era. The era name must be 32 ASCII characters or shorter. 
-4. The starting mint price.
-5. The mint increase amount.
-6. The status of the proposal, either "draft" or "active".   
+2. The name of the era. The era name must be 32 ASCII characters or shorter. 
+3. The status of the proposal, either "draft" or "active".   
+4. The date the proposed era would start.
+5. The starting mint price.
+6. The mint increase amount.
 7. The rationale for the era. 
 
 ### Status
