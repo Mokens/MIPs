@@ -23,7 +23,7 @@ Join us in the [Mokens discord](https://discord.gg/ZyaqFhE).
 
 ## Goals
 
-_The goal of the Mokens project is to create a cryptocollectibe and non-fungible token (mokens) that is widely adopted by users, useful, valuable and used across many software systems._
+_The goal of the Mokens project is to create a cryptocollectibe and non-fungible token (mokens) that is widely adopted by users, is useful, is valuable and is used across many software systems._
 
 The Mokens project provides a customizable cryptocollectibles solution (mokens) that is easily integrated with formally non-crypto websites and crypto-based systems and games.
 
