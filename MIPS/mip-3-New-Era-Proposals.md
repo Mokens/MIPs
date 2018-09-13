@@ -10,11 +10,11 @@ created: 2018-08-11
 
 ## What is an Era?
 
-An era is a name/label/branding for newly minted mokens for a period of time. The Moken community decides to start a new era or not each month. For example the Moken community could decide to have a Roman era for a month. During that time all mokens that are minted are mokens of the roman era. There could be a Silver era or Gold era or Olympics era or any label or branding. The era is stored with each moken in the Mokens contract and can be queried. 
+An era is a name/label/branding for newly minted mokens for a period of time. For example there could be a Roman era for a month. During that time all mokens that are minted are mokens of the roman era. There could be a Silver era or Gold era or Olympics era or any label or branding. The era is stored with each moken in the Mokens contract and can be queried. 
 
 Eras also determine the price to mint new mokens and the mint increase amount.
 
-The era name, when it starts, the starting mint price, and it's increasing mint price are all determined by the moken community.
+Currently the era name, when it starts, the starting mint price, and it's increasing mint price are determined by a New Era Proposal.
 
 ## Creating New Era Proposals
 
@@ -34,6 +34,8 @@ A New Era Proposal should consist of the following:
 The status is "draft" until the author feels the proposal is complete and final. The author changes the status to "active" when he/she feels it is ready.
 
 ### Rational
+
+The purpose of the Mokens project to make mokens desirable, useful and valuable for people and to disseminate their use.
 
 New eras should help the Mokens project in some way and the rational of a proposed era should explain how it helps the Mokens project.   
 
@@ -61,6 +63,8 @@ Except if no New Era Proposals have been submitted then there is no vote and the
 Except if only one new era proposal has been submitted for a month then that proposal will be accepted without a vote.
 
 The selected eras and the option for no new era are put into an Ethereum contract. A simple web user interface is used to interact with the voting contract. Moken holders (molders) vote on the era they want. The weight of each molder's vote depends on how many mokens he/she owns, however in the future this may be limited to prevent any one user from having too much influence.
+
+At this time Nick Mudge may veto a winning New Era Proposal if it does not help the Mokens project or if due to circumstances there is a better course of action for the project.
 
 The winning era will start on the 1st of the coming month, or there will be no change if the no new era option won the vote.
 
