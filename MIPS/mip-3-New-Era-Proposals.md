@@ -62,7 +62,7 @@ Voting for a new era or keeping the current one is done on the 15th of every mon
 
 **Except** if only one new era proposal has been submitted for a month then that proposal will be accepted without a vote.
 
-The selected eras and the option for no new era are put into an Ethereum contract. A simple web user interface is used to interact with the voting contract. Moken holders (molders) vote on the era they want. The weight of each molder's vote depends on how many mokens he/she owns, however in the future this may be limited to prevent any one user from having too much influence.
+If there is more than one New Era Proposal then the selected eras and the option for no new era are put into an Ethereum contract. A simple web user interface is used to interact with the voting contract. Moken holders (molders) vote on the era they want. The weight of each molder's vote depends on how many mokens he/she owns, however in the future this may be limited to prevent any one user from having too much influence.
 
 At this time Nick Mudge may veto a winning New Era Proposal if it does not help the Mokens project or if due to circumstances there is a better course of action for the project.
 
