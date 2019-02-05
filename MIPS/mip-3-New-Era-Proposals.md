@@ -11,9 +11,11 @@ created: 2018-08-11
 
 An era is a name/label/branding for newly minted mokens for a period of time. For example there could be a Roman era for a month. During that time all mokens that are minted are mokens of the roman era. There could be a Silver era or Gold era or Olympics era or any label or branding. The era is stored with each moken in the Mokens contract and can be queried. 
 
-Eras also determine the price to mint new mokens and the mint increase amount.
+Eras also determine the price to mint new mokens.
 
-Currently the era name, when it starts, the starting mint price, and it's increasing mint price are determined by a New Era Proposal.
+Currently the era name and how mokens are priced for the era are determined by a New Era Proposal.
+
+An Era can have a fixed mint price, or an increasing mint price or some other system, as determined by a New Era Proposal.
 
 ## Creating New Era Proposals
 
