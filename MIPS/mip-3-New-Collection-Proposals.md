@@ -1,34 +1,32 @@
 ---
 mip: 3
-title: New Era Proposals
+title: New Collection Proposals
 status: Active
 author: Nick Mudge <nick@mokens.io>
 discussions-to: https://github.com/Mokens/MIPs/issues/3
 created: 2018-08-11
 ---
 
-## What is an Era?
+## What is a Moken Collection?
 
-An era is a name/label/branding for newly minted mokens for a period of time. For example there could be a Roman era for a month. During that time all mokens that are minted are mokens of the roman era. There could be a Silver era or Gold era or Olympics era or any label or branding. The era is stored with each moken in the Mokens contract and can be queried. 
+A moken 'collection' is a name/label/branding/status for newly minted mokens. For example there could be a Roman collection. Mokens about Roman people and things would be created for the roman collection. The collection is stored with each moken in the Mokens contract and can be queried. 
 
-Eras also determine the price to mint new mokens. Eras can potentially change other aspects of mokens.
+The price for minting and buying is affected by which collection a moken is part of.
 
-Currently the era name and how mokens are priced for the era are determined by a New Era Proposal.
+A New Collection Proposal is a way to propose a new moken collection.
 
-An Era can have a fixed mint price, or an increasing mint price or some other system, as determined by a New Era Proposal.
+## Creating New Collection Proposals
 
-## Creating New Era Proposals
-
-Anybody can submit a New Era Proposal at any time by [creating an issue](https://github.com/Mokens/MIPs/issues/new) with a title that starts with "New Era Proposal".
+Anybody can submit a New Collection Proposal at any time by [creating an issue](https://github.com/Mokens/MIPs/issues/new) with a title that starts with "New Collection Proposal".
 
 A New Era Proposal should consist of the following:
 1. The name of the author.
-2. The name of the era. The era name must be 32 ASCII characters or shorter. 
+2. The name of the collection. The collection name must be 32 ASCII characters or shorter. 
 3. The status of the proposal, either "draft" or "active".   
-4. The date the proposed era would start.
+4. The date the proposed collection would start.
 5. The starting mint price.
-6. The mint increase amount.
-7. The rationale for the era. 
+6. The mint increase amount, if any.
+7. The rationale for the category. Who would make mokens for this category?
 
 ### Status
 
@@ -36,42 +34,18 @@ The status is "draft" until the author feels the proposal is complete and final.
 
 ### Rational
 
-The purpose of the Mokens project to make mokens desirable, useful and valuable for people and to disseminate their use.
+The purpose of the Mokens project is to make many valuable cryptocollectibles and to facilitate their trade, usefulness and dissemination.
 
-New eras should help the Mokens project in some way and the rational of a proposed era should explain how it helps the Mokens project.   
+New collections should help the Mokens project in some way and the rational of a proposed era should explain how it helps the Mokens project.   
 
-Here are examples of things to consider when writing a New Era Proposal:
-1. Does the proposed era help get mokens accepted and integrated with other Ethereum projects?
-2. Will the proposed era cause more people to adopt mokens?
-3. Does the proposed era distinguish itself from past eras?
-4. Will the proposed era satisfy existing moken holders (molders)?
-5. Does the proposed era support or assist projects that use mokens?
-6. Is the proposed era exciting and interesting and useful for something?
-7. Does the proposed era balance moken scarcity: increase moken supply if they are too scarce or restrict moken creation if there are too many available at low prices on exchanges?
-
-## Selecting New Era Proposals
-
-People should show their interest and support for New Era Proposals by adding various emojis to them. Here are examples of emojis that can be used: :thumbsup:, :thumbsdown:, :heart:, :smiley:, 🎉
-
-Up to 3 of the most popular New Era Proposals are selected for voting. Similar New Era Proposals should be consolidated. For example 2 or 3 similar proposals should be combined to 1.
-
-## Voting for a New Era
-
-Voting for a new era is done on the 15th of every month.
-
-**Except** if no New Era Proposals have been submitted then there is no vote and the current era continues for another month.
-
-**Except** if only one new era proposal has been submitted for a month then that proposal will be accepted without a vote.
-
-*At this time:* If there is more than one New Era Proposal then people will vote on github for the New Era Proposal that they want. The New Era Proposal that gets the most support from the people wins.
-
-*In the future:* If there is more than one New Era Proposal then the selected eras and the option for no new era are put into an Ethereum contract. A simple web user interface is used to interact with the voting contract. Moken holders (molders) vote on the era they want. The weight of each molder's vote depends on how many mokens he/she owns, however in the future this may be limited to prevent any one user from having too much influence.
-
-At this time Nick Mudge may veto a winning New Era Proposal if due to circumstances there is a better course of action for the project.
-
-The winning era will start on the 1st of the coming month, or there will be no change if the no new era option won the vote.
-
-The same process repeats each month.
+Here are examples of things to consider when writing a New Collections Proposal:
+1. Does the proposed collection help get mokens accepted and integrated with other Ethereum projects?
+2. Will the proposed collection cause more people to adopt mokens?
+3. Does the proposed collection distinguish itself from past collections?
+4. Will the proposed collection satisfy existing moken holders (molders)?
+5. Does the proposed collection support or assist projects that use mokens?
+6. Is the proposed collection exciting and interesting and useful for something?
+7. Who would mint mokens for this collection?
 
 ## Contact
 
