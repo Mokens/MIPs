@@ -19,69 +19,12 @@ and/or displaying and using mokens.
 The minting, display and use of mokens is decentralized because anyone can create applications or implement functionality to do these things.
 With knowledge and creative imagination the number of use cases of mokens is infinite.
 
-## Mint Mokens in Your Project
 
-The Mokens contract has two mint functions, `mint` and `contractMint`, 
-that take care of minting new mokens.
-
-Any new or existing project can choose which mint function to use.
-
-#### The `mint` Function
-```solidity
-/// @param _tokenOwner The Ethereum address that will own the newly minted moken.
-/// @param _mokenName The unique name of the newly minted moken.
-/// @param _linkHash A hash that can be used to link off-chain data with the newly minted moken.
-/// @return mokenId The sequential moken number of the newly minted moken.
-function mint(
-  address _tokenOwner, 
-  string _mokenName, 
-  bytes32 _linkHash
-) 
-  external 
-  payable 
-  returns (uint256 mokenId)
-```
-
-The `mint` function is a simple function that can be called by any dapp or user interface or Ethereum contract. It calculates the current price of the fee to mint a moken and stores the fee in the contract. The function reverts if the ether that is sent to pay the mint fee is less than the current price. If the ether that is sent is greater than the current price then the extra ether is refunded.
-
-The [mokens.io user interface](https://mokens.io) mints new mokens by calling the `mint` function directly.
-
-#### The `contractMint` Function
-```solidity
-/// @param _tokenOwner The Ethereum address that will own the newly minted moken.
-/// @param _mokenName The unique name of the newly minted moken.
-/// @param _linkHash A hash that can be used to link off-chain data with the newly minted moken.
-/// @param _currencyName The name of the ERC20 token that is used to pay the mint price, or 'Ether'.
-/// @param _pricePaid The mint price that was paid to mint the new moken.
-/// @return mokenId The sequential moken number of the newly minted moken.
-function contractMint(
-  address _tokenOwner, 
-  string _mokenName, 
-  bytes32 _linkHash, 
-  bytes32 _currencyName, 
-  uint256 _pricePaid
-) 
-  external 
-  returns (uint256 mokenId)
-```
-
-The `contractMint` function enables projects to mint new mokens and take a portion of the mint fee. 
-
-For example Project Moon could integrate the minting of mokens in their project. Their project could call `contractMint` to mint new mokens and collect 30 percent of the mint fee. The percentage of the mint fee taken by a project is determined on a case by case basis. A project may not mint mokens for itself and later sell them at a discount.
-
-Only contracts in an approved list that is stored in the Mokens contract can call the `contractMint` function. A project that wants to mint mokens should contact Nick Mudge <nick@mokens.io> to get their minting contract added to the approved list.
-
-The `contractMint` function enables the minting fee to be paid in Ether or in ERC20 tokens.
-
-A contract that calls `contractMint` needs to collect the correct mint fee, refund any overpayment, keep a portion of the fee  and send the rest to a designated address.
 
 #### Moken Metadata
+Various meta data about mokens can be retreived by using the https://api.mokens.io api. 
+Here is an example at: https://api.mokens.io/moken/28
 
-Just before a project mints a moken it should send an HTTP POST request to https://api.mokens.io with the metadata of the moken. The metadata can include a URI to an image, a description, tags and more. When the moken is minted the metadata will be associated with the moken and can be accessed through the http://api.mokens.io API. For example the metadata for Moken 28 is found at this URL https://api.mokens.io/moken/28.json
-
-When a moken is minted the moken name, the linkHash and the moken owner address are used to find the metadata to be associated with it.
-
-Here is an example of metadata that is currently being used with mokens. This is Moken 28:
 ```javascript
 {
    "name":"Sweety",
@@ -98,8 +41,6 @@ Here is an example of metadata that is currently being used with mokens. This is
 }
 ```
 
-In the metadata if the value for `original` is null then it means that the moken is not a forgery. If the metadata for `original` is a number then it means that the moken is a forgery and the number is the moken Id of the original moken.
-
 Projects can request that additional metadata be received and stored with mokens.
 
 ## Displaying Mokens in Your Project
@@ -112,7 +53,7 @@ Your project can integrate mokens with your contracts to create various function
 
 #### Querying Mokens
 
-Your project can query the Mokens contract to get and use data about specific mokens for your features and functionality. For each moken you can query and get the moken id, the moken era and moken name. You can query how many mokens a user has. You can query for who owns a moken. You can iterate through all the mokens or all the mokens owned by a specific user. You can query and get all the child NFTs that are owned by a moken. You can query and get all the ERC20 balances owned by a moken. You can query and get the NFT that owns a moken. And more.
+Your project can query the Mokens contract to get and use data about specific mokens for your features and functionality. For each moken you can query and get the moken id, the moken collection and moken name. You can query how many mokens a user has. You can query for who owns a moken. You can iterate through all the mokens or all the mokens owned by a specific user. You can query and get all the child NFTs that are owned by a moken. You can query and get all the ERC20 balances owned by a moken. You can query and get the NFT that owns a moken. And more.
 
 #### Attach Properties to Mokens
 
