@@ -11,7 +11,7 @@ created: 2018-08-10
 
 Technically mokens are [ERC721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) compliant and [ERC998](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-998.md) compliant non-fungible tokens minted on the main Ethereum network from the [Mokens contract](https://mokens.io/about/mokens-contract).
 
-Mokens are general purpose non-fungible tokens and cryptocollectibles that are designed for projects to use.
+Mokens are general purpose non-fungible tokens and cryptocollectibles.
 
 The Mokens community consists of all the people involved in some way with mokens.
 
@@ -23,7 +23,7 @@ Join us in the [Mokens discord](https://discord.gg/ZyaqFhE).
 
 ## Goals
 
-_The goal of the Mokens project is to create a cryptocollectibe and non-fungible token (mokens) that is widely adopted by users, is useful, is valuable and is used across many software systems._
+_The goal of the Mokens project is to create valuable cryptocollectibles that are traded among collecters._
 
 The Mokens project provides a customizable cryptocollectibles solution (mokens) that is easily integrated with formally non-crypto websites and crypto-based systems and games.
 
