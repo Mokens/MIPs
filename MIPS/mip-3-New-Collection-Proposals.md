@@ -19,7 +19,7 @@ A New Collection Proposal is a way to propose a new moken collection.
 
 Anybody can submit a New Collection Proposal at any time by [creating an issue](https://github.com/Mokens/MIPs/issues/new) with a title that starts with "New Collection Proposal".
 
-A New Era Proposal should consist of the following:
+A New Collection Proposal should consist of the following:
 1. The name of the author.
 2. The name of the collection. The collection name must be 32 ASCII characters or shorter. 
 3. The status of the proposal, either "draft" or "active".   
