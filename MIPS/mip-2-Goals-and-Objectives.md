@@ -23,7 +23,7 @@ Join us in the [Mokens discord](https://discord.gg/ZyaqFhE).
 
 ## Purpose
 
-### _The purpose of the Mokens project is to create valuable cryptocollectibles, mokens, that are traded among collecters._
+### _The purpose of the Mokens project is to create valuable mokens that are traded among collecters._
 
 The Mokens project provides a customizable cryptocollectibles solution (mokens) that is easily integrated with formally non-crypto websites and crypto-based systems and games.
 
