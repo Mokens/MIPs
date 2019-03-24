@@ -34,18 +34,19 @@ The status is "draft" until the author feels the proposal is complete and final.
 
 ### Rational
 
-The purpose of the Mokens project is to make many valuable cryptocollectibles and to facilitate their trade, usefulness and dissemination.
+The purpose of the Mokens project is to make valuable cryptocollectibles and to facilitate their trade, usefulness and dissemination.
 
-New collections should help the Mokens project in some way and the rational of a proposed era should explain how it helps the Mokens project.   
+New collections should help the Mokens project in some way and the rational of a proposed collection should explain how it helps the Mokens project.   
 
 Here are examples of things to consider when writing a New Collections Proposal:
-1. Does the proposed collection help get mokens accepted and integrated with other Ethereum projects?
-2. Will the proposed collection cause more people to adopt mokens?
-3. Does the proposed collection distinguish itself from past collections?
-4. Will the proposed collection satisfy existing moken holders (molders)?
-5. Does the proposed collection support or assist projects that use mokens?
-6. Is the proposed collection exciting and interesting and useful for something?
-7. Who would mint mokens for this collection?
+1. Does the proposed collection some how faciliate the creating of valuable mokens?
+2. Does the proposed collection help get mokens accepted and integrated with other Ethereum projects?
+3. Will the proposed collection cause more people to adopt mokens?
+4. Does the proposed collection distinguish itself from past collections?
+5. Will the proposed collection satisfy existing moken holders (molders)?
+6. Does the proposed collection support or assist projects that use mokens?
+7. Is the proposed collection exciting and interesting and useful for something?
+8. Who would mint mokens for this collection?
 
 ## Contact
 
